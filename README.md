@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mustafa jehad</h1>
-<h3 align="center">A backend developer from Palestine</h3>
+<h3 align="center">A Full stack developer 👨‍💻 from Palestine</h3>
 
 <img src="https://dresma.ai/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-2.gif" alt="css3" width="400" alt="coding" align="right" />
 
