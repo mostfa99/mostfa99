@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Mustafa Darsh</h1>
 <h3 align="center">A Full stack developer 👨‍💻 from Palestine</h3>
 
